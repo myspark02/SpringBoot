@@ -1,3 +1,4 @@
+<%@ page contentType="text/html; charset=utf-8" pageEncoding="utf-8" %>
 <!DOCTYPE html>
 <html>
 <head>
@@ -5,6 +6,7 @@
     <title>Spring Boot </title>
 </head>
 <body> 
-    Welcome Spring Boot
+    Welcome Spring Boot 
+    <a href="/logout">logout</a>
 </body>
 </html>
