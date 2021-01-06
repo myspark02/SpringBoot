@@ -19,6 +19,16 @@
             "mainClass": "yju.scpark.security.SecurityApplication",
             "projectName": "security",
             "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-JwtApplication<jwt>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "yju.scpark.jwt.JwtApplication",
+            "projectName": "jwt",
+            "args": ""
         }
     ]
 }
