@@ -29,6 +29,16 @@
             "mainClass": "yju.scpark.jwt.JwtApplication",
             "projectName": "jwt",
             "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-JpaApplication<jpa>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "codingwithscpark.security.jpa.JpaApplication",
+            "projectName": "jpa",
+            "args": ""
         }
     ]
 }
