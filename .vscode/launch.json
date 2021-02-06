@@ -39,6 +39,25 @@
             "mainClass": "codingwithscpark.security.jpa.JpaApplication",
             "projectName": "jpa",
             "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-DatarestApplication<datarest>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "yju.wdb.datarest.DatarestApplication",
+            "projectName": "datarest",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-MavenWrapperDownloader",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "MavenWrapperDownloader",
+            "args": ""
         }
     ]
 }
